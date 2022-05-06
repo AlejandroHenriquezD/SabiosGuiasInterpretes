@@ -1,40 +1,21 @@
-# Starting test project for a collaboration among IES El Rincón, CIFP San Cristóbal and Guías Sabios Intérpretes
+# Description of Home page
 
-This project was created as a starting point to create a VR App based on "Sabios Guías Intérpretes" page.
+The main project was copied from https://github.com/tcrurav/SabiosGuiasReactTestProject
 
-The resources were created by turism students from CIFP San Cristóbal.
+The home page was made for me, it has a simple but cool design
 
-From this starting point ICT Students in IES El Rincón will create the VR App.
+It was done for me using diferent components
 
-## Prerequisites
+## Components of my own
 
-You need a working environment with:
-* [Git](https://git-scm.com) - You can install it from https://git-scm.com/downloads.
-* [Node.js](https://nodejs.org) - Install node.js from https://nodejs.org/es/download/. It's advisable to install the LTS version.
+Footer2.js
 
-## General Installation instructions
+Header2.js
 
-The best option to start with this project is cloning it in your PC:
+Image.js
 
-```
-git clone https://github.com/tcrurav/SabiosGuiasReactTestProject.git
-```
+Images.js
 
-Once you have cloned your project install all dependencies.
-
-```
-cd SabiosGuiasReactTestProject
-npm install
-```
-
-Finally to start enjoying this project.
-
-```
-cd SabiosGuiasReactTestProject
-npm start
-```
-
-Enjoy!!!
 
 ## Built With
 
