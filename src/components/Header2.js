@@ -9,7 +9,7 @@ export default function Header2() {
             </div>
             <nav>
                 <ul>
-                    <li><a href="/all-routes">Rutas ⮕</a></li>
+                    <li><a href="/all-routes">Rutas</a></li>
                     <li><a href="/route-detail/0">Agüimes</a></li>
                     <li><a href="/route-detail/1">Alemán</a></li>
                     <li><a href="/route-detail/2">Tras las huellas británicas</a></li>
